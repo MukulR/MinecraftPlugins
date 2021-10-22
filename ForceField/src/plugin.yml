@@ -1,0 +1,11 @@
+name: Forcefield
+version: 1.0
+author: Jxllo
+main: jxllo.forcefield.Main
+description: Forcefield Plugin
+api-version: 1.13
+
+commands:
+  forcefield:
+    aliases: [ff]
+    description: This is the forcefield command
