@@ -1,0 +1,17 @@
+name: DeathSwap
+version: 1.0
+author: Jxllo/Cherds
+main: jxllo.deathswap.Main
+description: Death Swap Plugin for 1.13+
+api-version: 1.13
+
+commands:
+  startdeathswap:
+    aliases: [startds]
+    description: Use this command to start the deathswap game! (Operator only)
+  stopdeathswap:
+    aliases: [stopds]
+    description: Use this command to stop the deathswap game! (Operator only)
+  deathswapgame:
+    aliases: [dsgame]
+    description: Use this command to view any running games! (All players)
